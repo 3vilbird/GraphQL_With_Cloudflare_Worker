@@ -1,0 +1,10 @@
+name = "graphql"
+main = "src/index.ts"
+compatibility_date = "2022-06-23"
+
+kv_namespaces = [
+  { binding = "TODOS", id = "", preview_id ="" },
+  { binding = "TEACHER", id = "",preview_id = "" },
+  { binding = "SCHOOL", id = "",preview_id = "" },
+  { binding = "PUPIL", id = "",preview_id = "" }
+]
